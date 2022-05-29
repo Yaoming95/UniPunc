@@ -2,7 +2,7 @@
 
 
 ## Code Release
-We release UniPunc model code under `fairseq_code` folder.
+We release [UniPunc](https://ieeexplore.ieee.org/document/9747131) model code under `fairseq_code` folder.
 
 The code is implemented based on [fairseq](https://github.com/facebookresearch/fairseq). 
 
@@ -32,7 +32,7 @@ We also compare UniPunc and other baseline on multilingual sentences from mTEDx,
 
 
 ## Citation
-
+https://ieeexplore.ieee.org/document/9747131
 ```LaTeX
 @INPROCEEDINGS{9747131,
   author={Zhu, Yaoming and Wu, Liwei and Cheng, Shanbo and Wang, Mingxuan},
