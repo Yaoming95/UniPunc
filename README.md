@@ -31,3 +31,16 @@ We also compare UniPunc and other baseline on multilingual sentences from mTEDx,
 | UniPunc-Mix | 75.4    | 72.1  | 80.8      | 71.3          |
 
 
+## Citation
+
+```LaTeX
+@INPROCEEDINGS{9747131,
+  author={Zhu, Yaoming and Wu, Liwei and Cheng, Shanbo and Wang, Mingxuan},
+  booktitle={ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Unified Multimodal Punctuation Restoration Framework for Mixed-Modality Corpus}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={7272-7276},
+  doi={10.1109/ICASSP43922.2022.9747131}}
+```
