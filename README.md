@@ -1,4 +1,15 @@
 # UniPunc
+
+
+## Code Release
+We release UniPunc model code under `fairseq_code` folder.
+
+The code is implemented based on [fairseq](https://github.com/facebookresearch/fairseq). 
+
+
+
+## Case Study and Multilingual Performance
+
 The case study instance and multilingual performance of our ICASSP submission. We provide those results for reviewers' convenience.
 
 This repo does not contain an analysis, which is provided in section 5 of the paper.
