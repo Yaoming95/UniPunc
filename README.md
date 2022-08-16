@@ -7,6 +7,12 @@ We release [UniPunc](https://ieeexplore.ieee.org/document/9747131) model code un
 The code is implemented based on [fairseq](https://github.com/facebookresearch/fairseq). 
 
 
+## Data
+
+You can download MUST-C data [here](https://ict.fbk.eu/must-c/), where we use release v1.0.  
+We also use [mTEDx](https://www.openslr.org/100/) for construct English-mixed subset.
+
+The data split is in `data/` folder. 
 
 ## Case Study and Multilingual Performance
 
